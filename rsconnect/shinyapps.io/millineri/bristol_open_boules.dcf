@@ -1,0 +1,12 @@
+name: bristol_open_boules
+title: bristol_open_boules
+username:
+account: millineri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2611351
+bundleId: 3434250
+url: https://millineri.shinyapps.io/bristol_open_boules/
+when: 1595674038.83876
+asMultiple: FALSE
+asStatic: FALSE
